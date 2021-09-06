@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alber\\source\\repos\\AgenciaBancaria\\AgenciaBancaria\\AgenciaBancaria.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alber\\source\\repos\\AgenciaBancaria\\AgenciaBancaria.Dominio\\AgenciaBancaria.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alber\\source\\repos\\AgenciaBancaria\\AgenciaBancaria.Dominio\\AgenciaBancaria.Dominio.csproj",
+        "projectName": "AgenciaBancaria.Dominio",
+        "projectPath": "C:\\Users\\alber\\source\\repos\\AgenciaBancaria\\AgenciaBancaria.Dominio\\AgenciaBancaria.Dominio.csproj",
+        "packagesPath": "C:\\Users\\alber\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alber\\source\\repos\\AgenciaBancaria\\AgenciaBancaria.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alber\\source\\repos\\AgenciaBancaria\\AgenciaBancaria\\AgenciaBancaria.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alber\\source\\repos\\AgenciaBancaria\\AgenciaBancaria\\AgenciaBancaria.csproj",
+        "projectName": "AgenciaBancaria",
+        "projectPath": "C:\\Users\\alber\\source\\repos\\AgenciaBancaria\\AgenciaBancaria\\AgenciaBancaria.csproj",
+        "packagesPath": "C:\\Users\\alber\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alber\\source\\repos\\AgenciaBancaria\\AgenciaBancaria\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\alber\\source\\repos\\AgenciaBancaria\\AgenciaBancaria.Dominio\\AgenciaBancaria.Dominio.csproj": {
+                "projectPath": "C:\\Users\\alber\\source\\repos\\AgenciaBancaria\\AgenciaBancaria.Dominio\\AgenciaBancaria.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
